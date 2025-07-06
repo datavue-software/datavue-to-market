@@ -1,0 +1,101 @@
+sale_date,customer_name,customer_category,customer_company_size,satisfaction_rating,discount_offered,discount_amount_percent,product_name,base_price_per_ton,warehouse_name,warehouse_region,final_tons_sold,sale_amount
+2024-06-11 02:55:56.947829000,Downtown Grains Ltd,Local,Medium,4,No,0,Organic Maize,250,Redrock Depot,West Coast,43.0,462250.0
+2024-06-14 19:25:02.402374454,Region Foods Co,Local,Small,4,No,0,Yellow Maize,200,Maple Cross Dock,Central,4.800000000000001,4608.000000000001
+2024-06-18 11:54:07.856919909,Compact Food Traders,Local,Small,4,No,0,Yellow Maize,200,Highland Storage,Northern Highlands,4.800000000000001,4608.000000000001
+2024-06-22 04:23:13.311465363,Urban Provisions Inc,Local,Large,4,No,0,White Maize,210,Greenfield Warehouse,Southern Plains,141.9578147715834,4231924.446691868
+2024-06-25 20:52:18.766010818,Virtual Trading Co,Online,Large,5,No,0,White Maize,210,Riverbend Warehouse,North West,202.96447897094157,8650861.742028615
+2024-06-29 13:21:24.220556272,Digital Food Exchange,Online,Medium,5,No,0,Organic Maize,250,Sunset Depot,South West,81.0,1640250.0
+2024-07-03 05:50:29.675101727,Online Exchange Co,Online,Mega,4,No,0,White Maize,210,Sunset Depot,South West,940.8,185871974.39999998
+2024-07-06 22:19:35.129647182,Virtual Food Trade,Online,Mega,4,No,0,Organic Maize,250,Maple Cross Dock,Central,512.6,65689690.0
+2024-07-10 14:48:40.584192636,Sunrise Provisions,Local,Medium,4,No,0,White Maize,210,Oakridge Storage,North East,33.6,237081.6
+2024-07-14 07:17:46.038738091,Global Grain Corp,International,Medium,4,Yes,7,White Maize,210,Oakridge Storage,North East,103.2,2079991.872
+2024-07-17 23:46:51.493283545,District Foods Inc,Local,Mega,4,No,0,White Maize,210,Redrock Depot,West Coast,400.8,33734534.400000006
+2024-07-21 16:15:56.947829000,Regional Bulk Foods,Local,Medium,4,No,0,White Maize,210,Pinehill Warehouse,South East,82.8,1439726.4
+2024-07-25 08:45:02.402374455,World Trade Foods,International,Medium,5,No,0,Yellow Maize,200,Highland Storage,Northern Highlands,66.14359353944899,874994.9932623674
+2024-07-29 01:14:07.856919909,Digital Food Exchange,Online,Medium,5,No,0,Yellow Maize,200,Oakridge Storage,North East,57.04884942777475,650914.244206583
+2024-08-01 17:43:13.311465364,World Food Network,International,Large,4,No,0,Yellow Maize,200,Pinehill Warehouse,South East,101.7,2068578.0000000002
+2024-08-05 10:12:18.766010818,Cross Border Trading,International,Mega,4,No,0,Organic Maize,250,Redrock Depot,West Coast,892.8090664559916,199277007.28650478
+2024-08-09 02:41:24.220556273,Neighborhood Grains,Local,Small,2,No,0,White Maize,210,Redrock Depot,West Coast,0.0,23412.736847349315
+2024-08-12 19:10:29.675101728,Harvest Depot Ltd,Local,Medium,3,No,0,White Maize,210,Oakridge Storage,North East,0.0,1498415.1582303562
+2024-08-16 11:39:35.129647182,Compact Food Traders,Local,Small,4,No,0,Yellow Maize,200,Midway Storage,Midlands,14.4,41472.0
+2024-08-20 04:08:40.584192637,E-Commerce Foods,Online,Medium,3,No,0,White Maize,210,Riverbend Warehouse,North West,0.0,2341273.684734932
+2024-08-23 20:37:46.038738091,Town Grain Traders,Local,Medium,4,No,0,White Maize,210,Redrock Depot,West Coast,96.20281662206479,1943546.2044639112
+2024-08-27 13:06:51.493283546,Community Bulk Store,Local,Small,4,Yes,12,Organic Maize,250,Riverbend Warehouse,North West,15.251666049839539,51174.92980508216
+2024-08-31 05:35:56.947829000,Maritime Traders Inc,International,Medium,4,No,0,Organic Maize,250,Riverbend Warehouse,North West,28.156921938165304,198203.06325798365
+2024-09-03 22:05:02.402374455,Digital Food Exchange,Online,Medium,5,No,0,Organic Maize,250,Greenfield Warehouse,Southern Plains,79.2,1568160.0
+2024-09-07 14:34:07.856919910,World Maize Exchange,International,Large,4,No,0,Organic Maize,250,Midway Storage,Midlands,205.2,10526759.999999998
+2024-09-11 07:03:13.311465364,Local Mart Chain,Local,Medium,4,No,0,Yellow Maize,200,Riverbend Warehouse,North West,67.0,897800.0
+2024-09-14 23:32:18.766010819,Web Food Network,Online,Mega,4,No,0,Organic Maize,250,Redrock Depot,West Coast,477.59999999999997,57025439.99999999
+2024-09-18 16:01:24.220556273,Virtual Trading Co,Online,Large,5,No,0,Yellow Maize,200,Sunset Depot,South West,321.0,20608200.0
+2024-09-22 08:30:29.675101728,Maritime Traders Inc,International,Medium,4,No,0,White Maize,210,Sunset Depot,South West,22.0,101640.0
+2024-09-26 00:59:35.129647182,Local Grain Exchange,Local,Medium,4,No,0,Yellow Maize,200,Seabreeze Warehouse,East Coast,33.0,217800.0
+2024-09-29 17:28:40.584192636,Overseas Food Supply,International,Small,4,No,0,Organic Maize,250,Midway Storage,Midlands,22.8,129960.00000000001
+2024-10-03 09:57:46.038738092,Metro Food Alliance,Local,Medium,5,No,0,Yellow Maize,200,Greenfield Warehouse,Southern Plains,115.50000000000001,2668050.000000001
+2024-10-07 02:26:51.493283546,Virtual Food Trade,Online,Mega,4,No,0,Organic Maize,250,Seabreeze Warehouse,East Coast,633.5307436087194,100340300.77435422
+2024-10-10 18:55:56.947829000,Online Exchange Co,Online,Mega,4,No,0,White Maize,210,Pinehill Warehouse,South East,784.0,129077760.0
+2024-10-14 11:25:02.402374456,Neighborhood Grains,Local,Small,2,No,0,Organic Maize,250,Pinehill Warehouse,South East,0.0,99445.63416937027
+2024-10-18 03:54:07.856919910,Global Bulk Foods,International,Medium,3,No,0,Organic Maize,250,Sunset Depot,South West,0.0,760122.5116959824
+2024-10-21 20:23:13.311465364,City Bulk Foods,Local,Large,4,No,0,Yellow Maize,200,Midway Storage,Midlands,256.3,13137938.0
+2024-10-25 12:52:18.766010818,World Maize Exchange,International,Large,4,No,0,Yellow Maize,200,Greenfield Warehouse,Southern Plains,210.10000000000002,8828402.000000002
+2024-10-29 05:21:24.220556274,Massive Grain Holdings,Local,Mega,4,No,0,Organic Maize,250,Riverbend Warehouse,North West,802.4722752377112,160990438.1312972
+2024-11-01 21:50:29.675101728,International Food Trade,International,Medium,4,No,0,Yellow Maize,200,Midway Storage,Midlands,112.62768775266122,2536999.2097021905
+2024-11-05 14:19:35.129647182,E-Grain Trading,Online,Small,5,Yes,9,Organic Maize,250,Seabreeze Warehouse,East Coast,13.200000000000001,39639.600000000006
+2024-11-09 06:48:40.584192638,Central Wholesale Co,Local,Medium,3,Yes,5,Organic Maize,250,Midway Storage,Midlands,97.9,2276297.3750000005
+2024-11-12 23:17:46.038738092,Global Food Alliance,International,Large,4,No,0,White Maize,210,Sunset Depot,South West,243.9,12492314.100000001
+2024-11-16 15:46:51.493283546,Compact Food Traders,Local,Small,4,No,0,Organic Maize,250,Highland Storage,Northern Highlands,13.200000000000001,43560.00000000001
+2024-11-20 08:15:56.947829000,E-Grain Trading,Online,Small,5,Yes,9,White Maize,210,Riverbend Warehouse,North West,14.4,39626.496
+2024-11-24 00:45:02.402374456,Online Exchange Co,Online,Mega,4,No,0,Yellow Maize,200,Seabreeze Warehouse,East Coast,803.645480318468,129169211.60726023
+2024-11-27 17:14:07.856919910,Region Foods Co,Local,Small,4,No,0,White Maize,210,Maple Cross Dock,Central,4.5,4252.5
+2024-12-01 09:43:13.311465364,Grain Barn Wholesale,Local,Medium,2,No,0,Organic Maize,250,Riverbend Warehouse,North West,0.0,110250.0
+2024-12-05 02:12:18.766010820,City Bulk Foods,Local,Large,4,No,0,Yellow Maize,200,Seabreeze Warehouse,East Coast,273.59999999999997,14971391.999999996
+2024-12-08 18:41:24.220556274,Downtown Grains Ltd,Local,Medium,4,No,0,Yellow Maize,200,Oakridge Storage,North East,86.39999999999999,1492991.9999999995
+2024-12-12 11:10:29.675101728,Virtual Trading Co,Online,Large,5,No,0,Yellow Maize,200,Highland Storage,Northern Highlands,340.8,23228928.000000004
+2024-12-16 03:39:35.129647182,Web Food Network,Online,Mega,4,No,0,Organic Maize,250,Redrock Depot,West Coast,422.0,44521000.0
+2024-12-19 20:08:40.584192638,Grain Barn Wholesale,Local,Medium,2,No,0,Organic Maize,250,Highland Storage,Northern Highlands,0.0,462250.0
+2024-12-23 12:37:46.038738092,Local Grain Exchange,Local,Medium,4,No,0,Yellow Maize,200,Highland Storage,Northern Highlands,36.0,259200.0
+2024-12-27 05:06:51.493283546,Online Mart Supply,Online,Small,4,No,0,White Maize,210,Midway Storage,Midlands,13.228718707889797,36749.78971701944
+2024-12-30 21:35:56.947829000,Urban Bulk Supplies,Local,Large,4,No,0,White Maize,210,Sunset Depot,South West,204.21834505304875,8758077.815803278
+2025-01-03 14:05:02.402374456,Export Trading Group,International,Medium,4,No,0,Organic Maize,250,Greenfield Warehouse,Southern Plains,77.4,1497690.0000000002
+2025-01-07 06:34:07.856919912,Downtown Grains Ltd,Local,Medium,4,No,0,Organic Maize,250,Pinehill Warehouse,South East,46.800000000000004,547560.0000000001
+2025-01-10 23:03:13.311465364,World Trade Foods,International,Medium,5,No,0,Organic Maize,250,Oakridge Storage,North East,19.8,98010.0
+2025-01-14 15:32:18.766010820,Community Bulk Store,Local,Small,4,Yes,12,White Maize,210,Midway Storage,Midlands,4.800000000000001,4257.792000000001
+2025-01-18 08:01:24.220556272,Neighborhood Grains,Local,Small,2,No,0,Organic Maize,250,Greenfield Warehouse,Southern Plains,0.0,9922.5
+2025-01-22 00:30:29.675101728,District Foods Inc,Local,Mega,4,No,0,Yellow Maize,200,Midway Storage,Midlands,1021.8616253392491,208840236.26819438
+2025-01-25 16:59:35.129647184,Digital Food Alliance,Online,Medium,4,No,0,Yellow Maize,200,Riverbend Warehouse,North West,78.60474041071147,1235741.0430070674
+2025-01-29 09:28:40.584192636,Local Mart Chain,Local,Medium,4,No,0,White Maize,210,Maple Cross Dock,Central,40.800000000000004,349574.4000000001
+2025-02-02 01:57:46.038738092,Web Food Network,Online,Mega,4,No,0,White Maize,210,Midway Storage,Midlands,329.0643778587587,22739506.602870103
+2025-02-05 18:26:51.493283548,Downtown Grains Ltd,Local,Medium,4,No,0,Organic Maize,250,Pinehill Warehouse,South East,35.552181527453826,315989.4028402572
+2025-02-09 10:55:56.947829000,E-Commerce Trades,Online,Medium,5,No,0,White Maize,210,Redrock Depot,West Coast,85.15987668204058,1522962.9652650752
+2025-02-13 03:25:02.402374456,Digital Food Alliance,Online,Medium,4,No,0,Yellow Maize,200,Redrock Depot,West Coast,48.39999999999999,468511.9999999998
+2025-02-16 19:54:07.856919912,Continental Supplies,International,Mega,5,No,0,Yellow Maize,200,Oakridge Storage,North East,558.8,62451487.999999985
+2025-02-20 12:23:13.311465364,Harvest Depot Ltd,Local,Medium,3,No,0,White Maize,210,Midway Storage,Midlands,0.0,388169.65388601786
+2025-02-24 04:52:18.766010820,Prime Distributors,Local,Medium,5,No,0,White Maize,210,Maple Cross Dock,Central,60.3560291047472,764998.5523515492
+2025-02-27 21:21:24.220556272,Hometown Bulk Market,Local,Medium,2,No,0,Organic Maize,250,Sunset Depot,South West,0.0,221483.10766953672
+2025-03-03 13:50:29.675101728,International Wholesale Co,International,Small,4,Yes,10,Organic Maize,250,Sunset Depot,South West,8.8,17424.000000000004
+2025-03-07 06:19:35.129647184,Web Food Network,Online,Mega,4,No,0,Yellow Maize,200,Highland Storage,Northern Highlands,529.0,55968200.0
+2025-03-10 22:48:40.584192636,E-Commerce Foods,Online,Medium,3,No,0,Organic Maize,250,Highland Storage,Northern Highlands,0.0,116640.00000000001
+2025-03-14 15:17:46.038738092,International Food Trade,International,Medium,4,No,0,Organic Maize,250,Oakridge Storage,North East,32.0,256000.0
+2025-03-18 07:46:51.493283548,Ocean Foods International,International,Medium,4,No,0,White Maize,210,Riverbend Warehouse,North West,79.2,1317254.4000000001
+2025-03-22 00:15:56.947829000,Online Mart Supply,Online,Small,4,No,0,Organic Maize,250,Pinehill Warehouse,South East,5.6000000000000005,7840.000000000002
+2025-03-25 16:45:02.402374456,Digital Food Alliance,Online,Medium,4,No,0,White Maize,210,Maple Cross Dock,Central,22.5,106312.5
+2025-03-29 09:14:07.856919912,Maritime Traders Inc,International,Medium,4,No,0,White Maize,210,Maple Cross Dock,Central,38.7,314514.9000000001
+2025-04-02 01:43:13.311465364,Continental Supplies,International,Mega,5,No,0,White Maize,210,Maple Cross Dock,Central,996.0,208323360.0
+2025-04-05 18:12:18.766010820,Maritime Traders Inc,International,Medium,4,No,0,White Maize,210,Pinehill Warehouse,South East,82.0,1412040.0
+2025-04-09 10:41:24.220556276,Urban Provisions Inc,Local,Large,4,No,0,Organic Maize,250,Riverbend Warehouse,North West,137.24795659435665,4709250.397331602
+2025-04-13 03:10:29.675101728,Sunrise Provisions,Local,Medium,4,No,0,White Maize,210,Greenfield Warehouse,Southern Plains,73.0,1119090.0
+2025-04-16 19:39:35.129647184,Region Foods Co,Local,Small,4,No,0,Yellow Maize,200,Redrock Depot,West Coast,5.4,5832.000000000001
+2025-04-20 12:08:40.584192636,Global Bulk Foods,International,Medium,3,No,0,Organic Maize,250,Highland Storage,Northern Highlands,34.72538660821072,301463.1187724251
+2025-04-24 04:37:46.038738092,City Bulk Foods,Local,Large,4,No,0,Organic Maize,250,Greenfield Warehouse,Southern Plains,189.3360365066727,8962033.680014025
+2025-04-27 21:06:51.493283548,Global Grain Corp,International,Medium,4,Yes,7,White Maize,210,Redrock Depot,West Coast,57.0,634529.7000000001
+2025-05-01 13:35:56.947829000,Town Grain Traders,Local,Medium,4,No,0,Organic Maize,250,Highland Storage,Northern Highlands,60.300000000000004,909022.5000000001
+2025-05-05 06:05:02.402374456,Overseas Food Supply,International,Small,4,No,0,White Maize,210,Greenfield Warehouse,Southern Plains,12.100000000000001,30746.100000000006
+2025-05-08 22:34:07.856919912,Global Grain Corp,International,Medium,4,Yes,7,Organic Maize,250,Oakridge Storage,North East,43.2,433900.80000000005
+2025-05-12 15:03:13.311465364,Compact Food Traders,Local,Small,4,No,0,White Maize,210,Greenfield Warehouse,Southern Plains,12.100000000000001,30746.100000000006
+2025-05-16 07:32:18.766010820,Export Trading Group,International,Medium,4,No,0,White Maize,210,Pinehill Warehouse,South East,92.4,1792929.6
+2025-05-20 00:01:24.220556276,Central Wholesale Co,Local,Medium,3,Yes,5,Yellow Maize,200,Sunset Depot,South West,30.591412011995153,177808.55288865184
+2025-05-23 16:30:29.675101728,World Maize Exchange,International,Large,4,No,0,Yellow Maize,200,Oakridge Storage,North East,108.3101344208477,2346217.0436524195
+2025-05-27 08:59:35.129647184,Neighborhood Grains,Local,Small,2,No,0,Organic Maize,250,Highland Storage,Northern Highlands,6.3,9922.5
+2025-05-31 01:28:40.584192640,Massive Grain Holdings,Local,Mega,4,No,0,Yellow Maize,200,Highland Storage,Northern Highlands,506.8252854960278,51374374.00362602
+2025-06-03 17:57:46.038738092,Central Foods Hub,Local,Large,4,No,0,White Maize,210,Pinehill Warehouse,South East,315.59216672360276,20915667.296432637
+2025-06-07 10:26:51.493283548,Urban Bulk Supplies,Local,Large,4,No,0,Organic Maize,250,Highland Storage,Northern Highlands,287.0,20592250.0
+2025-06-11 02:55:56.947829000,Global Food Alliance,International,Large,4,No,0,White Maize,210,Redrock Depot,West Coast,178.32717227504693,6678121.878038997
