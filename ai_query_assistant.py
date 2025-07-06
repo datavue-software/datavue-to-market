@@ -3,9 +3,14 @@ import os
 import sqlite3
 from openai import OpenAI
 from sqlalchemy import create_engine, text
+import streamlit as st
 
-# Configuration
-API_KEY = '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'
+# Configuration - Use Streamlit secrets in production
+try:
+    API_KEY = st.secrets["OPENAI_API_KEY"]
+except:
+    # Fallback for local development
+    API_KEY = 'your-local-api-key-here'
 
 class AIQueryAssistant:
     def __init__(self, csv_file_path="partial_csv.csv", api_key=None):
